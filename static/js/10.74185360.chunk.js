@@ -1,2 +1,0 @@
-(this["webpackJsonpdocs-src"]=this["webpackJsonpdocs-src"]||[]).push([[10],{214:function(s,t,c){"use strict";c.r(t);var e=c(0),n=c.n(e),o=c(21),r=c(1);t.default=function(){return n.a.createElement(o.a,{to:r.PATHS.home})}}}]);
-//# sourceMappingURL=10.74185360.chunk.js.map

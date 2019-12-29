@@ -1,0 +1,2 @@
+(this["webpackJsonpdocs-src"]=this["webpackJsonpdocs-src"]||[]).push([[10],{234:function(t,c,e){"use strict";e.r(c);var o=e(0),a=e.n(o),n=e(21),r=e(3),s=e(1);c.default=Object(n.g)((function(t){var c=t.match.params.version,e=Object(r.d)()[c];if(console.log("targetVersion:",e),e){var o=e[0].data[0].to;return console.log("targetSection:",o),a.a.createElement(n.a,{to:"".concat(s.PATHS.docs,"/").concat(o)})}return a.a.createElement(n.a,{to:s.PATHS.docs})}))}}]);
+//# sourceMappingURL=10.620743a8.chunk.js.map
